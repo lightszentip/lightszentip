@@ -7,7 +7,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightszentip)
-![Lightszentip's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightszentip&hide=html&layout=compact)
+![Lightszentip's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightszentip&hide=HTML&layout=compact)
 
 Currently working with:
 
