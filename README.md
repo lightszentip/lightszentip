@@ -6,8 +6,8 @@
 - 📫 How to reach me: You can email me :-)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightszentip)
-![Lightszentip's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightszentip&hide=HTML&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightszentip&hide=HTML&layout=compact)
+![Lightszentip's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightszentip)
 
 Currently working with:
 
