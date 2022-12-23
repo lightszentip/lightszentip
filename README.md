@@ -5,7 +5,7 @@
 <p align="center">"You are in every moment the wanderer who has to decide about the own way" Hermann Stehr</p>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=lightszentip&row=3&column=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=lightszentip&row=2&column=2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightszentip&hide=HTML&layout=compact)
 ![Lightszentip's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightszentip)
 
