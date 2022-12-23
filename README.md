@@ -1,14 +1,14 @@
 <h2 align="center">
-  :mountain: <span style="color:#e74c3c;"> lightszentip </span>
+  :mountain: <span style="color:#e74c3c;"> lightszentip </span> 	:national_park:
 </h1>
 
 <p align="center">"You are in every moment the wanderer who has to decide about the own way" Hermann Stehr</p>
 
 
-
-
+![trophy](https://github-profile-trophy.vercel.app/?username=lightszentip&row=3&column=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightszentip&hide=HTML&layout=compact)
 ![Lightszentip's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightszentip)
+
 
 Currently working with:
 
