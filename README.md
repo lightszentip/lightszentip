@@ -4,6 +4,9 @@
 
 <p align="center">"You are in every moment the wanderer who has to decide about the own way" Hermann Stehr</p>
 
+<p align="center">“I am not a visionary. I'm an engineer. I'm happy with the people who are wandering around looking at the stars but I am looking at the ground and I want to fix the pothole before I fall in.”
+― Linus Torvalds </p>
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lightszentip&row=2&column=2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightszentip&hide=HTML&layout=compact)
