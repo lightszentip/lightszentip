@@ -8,7 +8,7 @@
 ― Linus Torvalds </p>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/l3vQXKPdzpShJtTCE/giphy.gif?cid=ecf05e47b5yaw16rbuisv4vl47jx0pf22whrja691jftqvjw&ep=v1_gifs_search&rid=giphy.gif" width="600" height="300"/>
+  <img src="https://media4.giphy.com/media/SOC2nDgWcc0us/giphy.gif?cid=ecf05e473mc0v5edugvg9yqr15onqrpukb67eth8gssisv92&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 
