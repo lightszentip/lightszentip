@@ -7,6 +7,10 @@
 <p align="center">“I am not a visionary. I'm an engineer. I'm happy with the people who are wandering around looking at the stars but I am looking at the ground and I want to fix the pothole before I fall in.”
 ― Linus Torvalds </p>
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/l3vQXKPdzpShJtTCE/giphy.gif?cid=ecf05e47b5yaw16rbuisv4vl47jx0pf22whrja691jftqvjw&ep=v1_gifs_search&rid=giphy.gif" width="600" height="300"/>
+</div>
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lightszentip&row=2&column=2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightszentip&hide=HTML&layout=compact)
