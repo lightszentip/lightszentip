@@ -8,7 +8,9 @@
 ― Linus Torvalds </p>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/SOC2nDgWcc0us/giphy.gif?cid=ecf05e473mc0v5edugvg9yqr15onqrpukb67eth8gssisv92&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://github.com/lightszentip/lightszentip/assets/3680505/51a73db4-f062-45f8-aa27-002243a7e162" width="500"/>
+
+<!--  <img src="https://media4.giphy.com/media/SOC2nDgWcc0us/giphy.gif?cid=ecf05e473mc0v5edugvg9yqr15onqrpukb67eth8gssisv92&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>-->
 </div>
 
 
